@@ -24,7 +24,7 @@ Based on this data, I would recommend that Louise either lower her goal amount s
 The most difficult part of this analysis was keeping track of when we wanted to filter by which categories. It was hard to keep track of when we wanted to filter by country. I felt that knowing a bit more about what Louise was looking for and what questions she specifically had and would like us to look into from the start would help me focus my analysis on answering her specific questions. This would help me to keep the end goal and purpose in mind through out the whole analysis.
 ## Results
 ### Conclusions from Theater Outcomes by Launch Date
-In every month more campaigns succeed than fail. (You can note that there isn't much of a difference in December. In addition, if you filter for country, you see the the number of successful and failed campagins are equal in December. If you also filter for plays, there are more failed campaigns in December than successful ones.)
+In every month more campaigns succeed than fail. (You can note that there isn't much of a difference in December. In addition, if you filter for country, you see the number of successful and failed campaigns are equal in December. If you also filter for plays, there are more failed campaigns in December than successful ones.)
 
 However, I would recommend that Louise start in May because the data shows that there is a greater chance of success if the campaign is launched in that month. In May 111 campaigns were successful, 52 failed, and 3 canceled meaning 67% of campaigns succeeded, the highest percentage of successful campaigns per month.
 
