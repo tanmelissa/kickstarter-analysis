@@ -8,9 +8,10 @@ Here is a line chart showing how many successful, failed, and canceled campaigns
 
 <img width="283" alt="Theater Outcomes Based on Launch Date" src="https://user-images.githubusercontent.com/102273449/166122600-6257ae9f-4f27-4a88-b597-bb0371308227.png">
 
-This shows us that the months with the most successful campaigns were May, June, July, Aug, with February and March close behind. 
+This shows us that the months with the most successful campaigns were May, June, July, Aug, with February and March close behind. December is the worst month to start a Kickstarter campaign.
 
 We can also see that the difference between the number of successful and failed projects changes with each month the project is launched in. From this data, I would recommend that Louise launches her Kickstarter in May.
+
 ### Analysis of Outcomes Based on Goals
 Here is a line chart comparing the percentage of successful play campaigns vs the percentage of failed play campaigns by price range of their campaign goals. This was created by first counting the number of successful, failed, and canceled play campaigns in each goal range, then calculating the percentage of successful, failed, and canceled campaigns for each range.
 
